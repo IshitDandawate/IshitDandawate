@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishit dandawate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishit dandawate" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishitdandawate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishitdandawate" height="30" width="40" /></a>
 <a href="https://instagram.com/ishit_dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishit_dan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/id0723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="id0723" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishit_amiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishit_amiro" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/id0723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/id0723" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/ishit_amiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ishit_amiro/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
